@@ -6,48 +6,152 @@
 }
 
 .gallery_thumbnail {
-	-moz-transition: opacity .5s ease-out;
-	-webkit-transition: opacity .5s ease-out;
-	-o-transition: opacity .5s ease-out;
-	background-color: lighten(#b8a3fd, 16%);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 1px solid #ececec;
 	border-radius: 4px;
 	display: table;
 	height: 220px;
 	margin-bottom: 15px;
-	opacity: 1;
-	transition: opacity .5s ease-out;
 	width: 100%;
 	@media(min-width: $screen-sm) {
 		margin-bottom: 30px;
 	}
-	&:hover {
-		opacity: .5;
+	.gallery_image_title {
+		text-decoration: none;
+		opacity: 1;
+	}
+}
 
-		.gallery_image_title {
-			text-decoration: none;
+.gallery_thumbnail_image1 {
+	background-image: url("../img/black_gallery_thumbnail.jpg");
+}
+
+.gallery_thumbnail_image2 {
+	background-image: url("../img/variable20_gallery_thumbnail.png");
+}
+
+.gallery_thumbnail_image3 {
+	background-image: url("../img/rgb_gallery_thumbnail.png");
+}
+
+.gallery_thumbnail_image4 {
+	background-image: url("../img/variable14_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image5 {
+	background-image: url("../img/variable9_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image6 {
+	background-image: url("../img/variable6_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image7 {
+	background-image: url("../img/variable5_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image8 {
+	background-image: url("../img/variable2_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image9 {
+	background-image: url("../img/ambitious_little_humans_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image10 {
+	background-image: url("../img/dreamer_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image11 {
+	background-image: url("../img/glove_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image12 {
+	background-image: url("../img/growing_rocks_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image13 {
+	background-image: url("../img/the_organic_man_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image14 {
+	background-image: url("../img/inflatable_heart_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image15 {
+	background-image: url("../img/variable8_gallery_thumbail.png");
+}
+
+.gallery_thumbnail_image16 {
+	background-image: url("../img/variable_16_gallery_thumbail.png");
+}
+
+.gallery_image_title {
+	-moz-transition: background-color .5s ease-in-out;
+	-webkit-transition: background-color .5s ease-in-out;
+	-o-transition: background-color .5s ease-in-out;
+	background-color: rgba(0,0,0,0);
+	border-radius: 4px;
+	display: table-cell;
+	height: 100%;
+	text-align: center;
+	transition: background-color .5s ease-in-out;
+	vertical-align: middle;
+	width: 100%;
+
+	span {
+		-moz-transition: opacity .5s ease-in-out;
+		-webkit-transition: opacity .5s ease-in-out;
+		-o-transition: opacity .5s ease-in-out;
+		color: #fff;
+		font-size: 23px;
+		opacity: 0;
+	}
+
+	&:hover {
+		background-color: rgba(0,0,0,0.5);
+		text-decoration: none;
+
+		span {
 			opacity: 1;
 		}
 	}
 }
 
-.gallery_image_title {
-	-moz-transition: opacity .5s ease-out;
-	-webkit-transition: opacity .5s ease-out;
-	-o-transition: opacity .5s ease-out;
-	color: #000;
-	display: table-cell;
-	font-size: 23px;
-	height: 100%;
-	opacity: 0;
+.no_text_decoration:hover {
+	text-decoration: none;
+}
+
+.gallery_link {
+	margin-top: 10px;
+}
+
+.gallery_arrows {
+	display: block;
 	text-align: center;
-	vertical-align: middle;
+	width: 100%;
+}
+
+.gallery_page_image {
+	position: relative;
+}
+
+.image_container {
+	display: table;
+	max-height: 700px;
 	width: 100%;
 
-	&:hover {
-		text-decoration: none;
+	img {
+		display: table-cell;
+    margin-left: auto;
+    margin-right: auto;
+		max-height: 700px;
+    position: relative;
 	}
 }
 
-.no_text_decoration:hover {
-	text-decoration: none;
+.not_active {
+	color: #ececec;
 }

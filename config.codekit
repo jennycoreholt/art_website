@@ -11,6 +11,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/ambitious_little_humans.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ambitious_little_humans.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/black.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/black.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/bower_components\/bootstrap-sass\/assets\/images\/allotment_background_img.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1730,6 +1748,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/glove.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/glove.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/growing_rocks.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/growing_rocks.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/img\/8718702266_d7b0e22b19_o.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1748,6 +1784,50 @@
 		"initialSize": 744683,
 		"inputAbbreviatedPath": "\/img\/8718702780_2bc3890397_o.jpg",
 		"outputAbbreviatedPath": "\/img\/8718702780_2bc3890397_o.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ambitious_little_humans.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 192463,
+		"inputAbbreviatedPath": "\/img\/ambitious_little_humans.jpg",
+		"outputAbbreviatedPath": "\/img\/ambitious_little_humans.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ambitious_little_humans_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64415,
+		"inputAbbreviatedPath": "\/img\/ambitious_little_humans_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/ambitious_little_humans_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/black_gallery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 408528,
+		"inputAbbreviatedPath": "\/img\/black_gallery.jpg",
+		"outputAbbreviatedPath": "\/img\/black_gallery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/black_gallery_thumbnail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102204,
+		"inputAbbreviatedPath": "\/img\/black_gallery_thumbnail.jpg",
+		"outputAbbreviatedPath": "\/img\/black_gallery_thumbnail.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1785,6 +1865,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/dreamer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 178203,
+		"inputAbbreviatedPath": "\/img\/dreamer.jpg",
+		"outputAbbreviatedPath": "\/img\/dreamer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/dreamer_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39717,
+		"inputAbbreviatedPath": "\/img\/dreamer_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/dreamer_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/flickr_socialmedia.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1792,6 +1894,72 @@
 		"initialSize": 15640,
 		"inputAbbreviatedPath": "\/img\/flickr_socialmedia.png",
 		"outputAbbreviatedPath": "\/img\/flickr_socialmedia.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/glove.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 240633,
+		"inputAbbreviatedPath": "\/img\/glove.jpg",
+		"outputAbbreviatedPath": "\/img\/glove.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/glove_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99575,
+		"inputAbbreviatedPath": "\/img\/glove_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/glove_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/growing_rocks_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168964,
+		"inputAbbreviatedPath": "\/img\/growing_rocks_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/growing_rocks_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/growingrocks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 334724,
+		"inputAbbreviatedPath": "\/img\/growingrocks.jpg",
+		"outputAbbreviatedPath": "\/img\/growingrocks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/inflatable_heart_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56347,
+		"inputAbbreviatedPath": "\/img\/inflatable_heart_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/inflatable_heart_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/inflatableheart.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167643,
+		"inputAbbreviatedPath": "\/img\/inflatableheart.jpg",
+		"outputAbbreviatedPath": "\/img\/inflatableheart.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1944,6 +2112,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/rgb_carousel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/rgb_carousel.png",
+		"outputAbbreviatedPath": "\/img\/rgb_carousel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/rgb_gallery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187278,
+		"inputAbbreviatedPath": "\/img\/rgb_gallery.jpg",
+		"outputAbbreviatedPath": "\/img\/rgb_gallery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/rgb_gallery_thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119699,
+		"inputAbbreviatedPath": "\/img\/rgb_gallery_thumbnail.png",
+		"outputAbbreviatedPath": "\/img\/rgb_gallery_thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/rise_art_logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1951,6 +2152,28 @@
 		"initialSize": 40137,
 		"inputAbbreviatedPath": "\/img\/rise_art_logo.png",
 		"outputAbbreviatedPath": "\/img\/rise_art_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/the_organic_man_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168389,
+		"inputAbbreviatedPath": "\/img\/the_organic_man_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/the_organic_man_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/theorganicman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 384755,
+		"inputAbbreviatedPath": "\/img\/theorganicman.jpg",
+		"outputAbbreviatedPath": "\/img\/theorganicman.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1966,6 +2189,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/variable14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81783,
+		"inputAbbreviatedPath": "\/img\/variable14.jpg",
+		"outputAbbreviatedPath": "\/img\/variable14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable14_carousel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/variable14_carousel.png",
+		"outputAbbreviatedPath": "\/img\/variable14_carousel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable14_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159371,
+		"inputAbbreviatedPath": "\/img\/variable14_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/variable14_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Variable16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99297,
+		"inputAbbreviatedPath": "\/img\/Variable16.jpg",
+		"outputAbbreviatedPath": "\/img\/Variable16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable16_carousel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/variable16_carousel.png",
+		"outputAbbreviatedPath": "\/img\/variable16_carousel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145571,
+		"inputAbbreviatedPath": "\/img\/variable2.jpg",
+		"outputAbbreviatedPath": "\/img\/variable2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/variable20.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1973,6 +2262,50 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/img\/variable20.png",
 		"outputAbbreviatedPath": "\/img\/variable20.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable20_gallery_thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 155617,
+		"inputAbbreviatedPath": "\/img\/variable20_gallery_thumbnail.png",
+		"outputAbbreviatedPath": "\/img\/variable20_gallery_thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable22.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130374,
+		"inputAbbreviatedPath": "\/img\/variable22.jpg",
+		"outputAbbreviatedPath": "\/img\/variable22.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable2_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195647,
+		"inputAbbreviatedPath": "\/img\/variable2_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/variable2_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93084,
+		"inputAbbreviatedPath": "\/img\/variable5.jpg",
+		"outputAbbreviatedPath": "\/img\/variable5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1988,6 +2321,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/variable5_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150734,
+		"inputAbbreviatedPath": "\/img\/variable5_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/variable5_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121937,
+		"inputAbbreviatedPath": "\/img\/variable6.jpg",
+		"outputAbbreviatedPath": "\/img\/variable6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/variable6.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1995,6 +2350,28 @@
 		"initialSize": 2.90364e+06,
 		"inputAbbreviatedPath": "\/img\/variable6.png",
 		"outputAbbreviatedPath": "\/img\/variable6.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable6_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 162415,
+		"inputAbbreviatedPath": "\/img\/variable6_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/variable6_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73669,
+		"inputAbbreviatedPath": "\/img\/variable8.jpg",
+		"outputAbbreviatedPath": "\/img\/variable8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2010,11 +2387,108 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/variable8_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146672,
+		"inputAbbreviatedPath": "\/img\/variable8_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/variable8_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Variable9.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231445,
+		"inputAbbreviatedPath": "\/img\/Variable9.jpeg",
+		"outputAbbreviatedPath": "\/img\/Variable9.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Variable9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 656699,
+		"inputAbbreviatedPath": "\/img\/Variable9.jpg",
+		"outputAbbreviatedPath": "\/img\/Variable9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable9_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161751,
+		"inputAbbreviatedPath": "\/img\/variable9_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/variable9_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable_16_gallery_thumbail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119864,
+		"inputAbbreviatedPath": "\/img\/variable_16_gallery_thumbail.png",
+		"outputAbbreviatedPath": "\/img\/variable_16_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Variable_20_gallery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 393464,
+		"inputAbbreviatedPath": "\/img\/Variable_20_gallery.jpg",
+		"outputAbbreviatedPath": "\/img\/Variable_20_gallery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable_2_carousel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/variable_2_carousel.png",
+		"outputAbbreviatedPath": "\/img\/variable_2_carousel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable_9_carousel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/variable_9_carousel.png",
+		"outputAbbreviatedPath": "\/img\/variable_9_carousel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/inflatable_heart.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/inflatable_heart.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2046,6 +2520,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/public\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/rgb.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/rgb.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2129,6 +2612,96 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/the_dreamer.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/the_dreamer.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/the_organic_man.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/the_organic_man.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/variable14.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/variable14.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/variable2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/variable2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/variable20.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/variable20.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/variable5.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/variable5.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/variable6.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/variable6.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/variable8.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/variable8.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/variable9.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/variable9.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/variable_16.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/variable_16.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
