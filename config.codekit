@@ -1810,6 +1810,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ambitious_little_humans_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 192463,
+		"inputAbbreviatedPath": "\/img\/ambitious_little_humans_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/ambitious_little_humans_lowres.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/black_gallery.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1817,6 +1828,17 @@
 		"initialSize": 408528,
 		"inputAbbreviatedPath": "\/img\/black_gallery.jpg",
 		"outputAbbreviatedPath": "\/img\/black_gallery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/black_gallery_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 408528,
+		"inputAbbreviatedPath": "\/img\/black_gallery_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/black_gallery_lowres.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1887,6 +1909,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/dreamer_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 178203,
+		"inputAbbreviatedPath": "\/img\/dreamer_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/dreamer_lowres.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/flickr_socialmedia.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1920,6 +1953,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/glove_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 240633,
+		"inputAbbreviatedPath": "\/img\/glove_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/glove_lowres.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/growing_rocks_gallery_thumbail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1942,6 +1986,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/growingrocks_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 334724,
+		"inputAbbreviatedPath": "\/img\/growingrocks_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/growingrocks_lowres.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/inflatable_heart_gallery_thumbail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1960,6 +2015,17 @@
 		"initialSize": 167643,
 		"inputAbbreviatedPath": "\/img\/inflatableheart.jpg",
 		"outputAbbreviatedPath": "\/img\/inflatableheart.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/inflatableheart_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167643,
+		"inputAbbreviatedPath": "\/img\/inflatableheart_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/inflatableheart_lowres.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2008,6 +2074,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/rgb_gallery_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64176,
+		"inputAbbreviatedPath": "\/img\/rgb_gallery_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/rgb_gallery_lowres.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/rgb_gallery_thumbnail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2048,6 +2125,17 @@
 		"initialSize": 384755,
 		"inputAbbreviatedPath": "\/img\/theorganicman.jpg",
 		"outputAbbreviatedPath": "\/img\/theorganicman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/theorganicman_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77690,
+		"inputAbbreviatedPath": "\/img\/theorganicman_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/theorganicman_lowres.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2096,13 +2184,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/Variable16.jpg": {
+	"\/img\/variable14_lowres.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 99297,
-		"inputAbbreviatedPath": "\/img\/Variable16.jpg",
-		"outputAbbreviatedPath": "\/img\/Variable16.jpg",
+		"initialSize": 81783,
+		"inputAbbreviatedPath": "\/img\/variable14_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/variable14_lowres.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2114,6 +2202,17 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/img\/variable16_carousel.png",
 		"outputAbbreviatedPath": "\/img\/variable16_carousel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Variable16_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99297,
+		"inputAbbreviatedPath": "\/img\/Variable16_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/Variable16_lowres.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2151,6 +2250,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/variable20_lowres.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.46086e+06,
+		"inputAbbreviatedPath": "\/img\/variable20_lowres.png",
+		"outputAbbreviatedPath": "\/img\/variable20_lowres.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/variable22.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2169,6 +2279,17 @@
 		"initialSize": 195647,
 		"inputAbbreviatedPath": "\/img\/variable2_gallery_thumbail.png",
 		"outputAbbreviatedPath": "\/img\/variable2_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable2_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145571,
+		"inputAbbreviatedPath": "\/img\/variable2_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/variable2_lowres.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2202,6 +2323,28 @@
 		"initialSize": 150734,
 		"inputAbbreviatedPath": "\/img\/variable5_gallery_thumbail.png",
 		"outputAbbreviatedPath": "\/img\/variable5_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable5_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93084,
+		"inputAbbreviatedPath": "\/img\/variable5_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/variable5_lowres.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable5_lowres.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87640,
+		"inputAbbreviatedPath": "\/img\/variable5_lowres.png",
+		"outputAbbreviatedPath": "\/img\/variable5_lowres.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2250,6 +2393,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/variable6_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121937,
+		"inputAbbreviatedPath": "\/img\/variable6_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/variable6_lowres.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable6_lowres.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.31516e+06,
+		"inputAbbreviatedPath": "\/img\/variable6_lowres.png",
+		"outputAbbreviatedPath": "\/img\/variable6_lowres.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/variable8.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2283,13 +2448,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/Variable9.jpeg": {
+	"\/img\/variable8_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73669,
+		"inputAbbreviatedPath": "\/img\/variable8_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/variable8_lowres.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable8_lowres.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.55442e+06,
+		"inputAbbreviatedPath": "\/img\/variable8_lowres.png",
+		"outputAbbreviatedPath": "\/img\/variable8_lowres.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Variable9.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 231445,
-		"inputAbbreviatedPath": "\/img\/Variable9.jpeg",
-		"outputAbbreviatedPath": "\/img\/Variable9.jpeg",
+		"inputAbbreviatedPath": "\/img\/Variable9.jpg",
+		"outputAbbreviatedPath": "\/img\/Variable9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2301,6 +2488,28 @@
 		"initialSize": 161751,
 		"inputAbbreviatedPath": "\/img\/variable9_gallery_thumbail.png",
 		"outputAbbreviatedPath": "\/img\/variable9_gallery_thumbail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Variable9_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76700,
+		"inputAbbreviatedPath": "\/img\/Variable9_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/Variable9_lowres.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Variable_16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99297,
+		"inputAbbreviatedPath": "\/img\/Variable_16.jpg",
+		"outputAbbreviatedPath": "\/img\/Variable_16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2327,6 +2536,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/Variable_20_gallery_lowres.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 393464,
+		"inputAbbreviatedPath": "\/img\/Variable_20_gallery_lowres.jpg",
+		"outputAbbreviatedPath": "\/img\/Variable_20_gallery_lowres.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/variable_2_carousel.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2338,6 +2558,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/variable_2_carousel_lowres.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61807,
+		"inputAbbreviatedPath": "\/img\/variable_2_carousel_lowres.png",
+		"outputAbbreviatedPath": "\/img\/variable_2_carousel_lowres.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/variable_9_carousel.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2345,6 +2576,17 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/img\/variable_9_carousel.png",
 		"outputAbbreviatedPath": "\/img\/variable_9_carousel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/variable_9_carousel_lowres.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76733,
+		"inputAbbreviatedPath": "\/img\/variable_9_carousel_lowres.png",
+		"outputAbbreviatedPath": "\/img\/variable_9_carousel_lowres.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2367,6 +2609,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/js\/dist\/echo.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/dist\/echo.js",
+		"outputAbbreviatedPath": "\/js\/dist\/min\/echo-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/dist\/echo.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/dist\/echo.min.js",
+		"outputAbbreviatedPath": "\/js\/dist\/min\/echo.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/main.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -2384,6 +2648,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/main-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/main-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/src\/echo.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/src\/echo.js",
+		"outputAbbreviatedPath": "\/js\/src\/min\/echo-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2585,8 +2860,8 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "My Website",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "Art Website",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "compass_orange"
 	},
 "projectSettings": {

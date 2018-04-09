@@ -60,7 +60,7 @@
           <div class="col-xs-12">
             <div class="gallery_page_image">
               <div class="image_container">
-                <img class="img-responsive" src="../img/inflatableheart.jpg"/>
+                <img class="img-responsive" src="../img/inflatableheart_lowres.jpg" alt="Inflatable Heart" data-echo="../img/inflatableheart.jpg"/>
               </div>
 
               <br>
@@ -124,5 +124,16 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/min/main-min.js"></script>
+    <script src="js/dist/echo.js"></script>
+    <script>
+      echo.init({
+      offset: 100,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        console.log(element, 'has been', op + 'ed')
+      }
+    });
+    </script>
   </body>
 </html>

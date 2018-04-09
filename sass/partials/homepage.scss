@@ -252,6 +252,17 @@ $defaultDuration: .3s;
   .carousel-inner {
     z-index: -1;
   }
+
+//   .item {
+//     height: 100v
+//   }
+//   .item img {
+//     height: auto;
+//     width: 100vw;
+//     // @media(min-width: $screen-sm-min) {
+//     //   height: 90vh;
+//     // }
+//   }
 }
 
 .text_overlay_carousel {
@@ -329,26 +340,32 @@ $defaultDuration: .3s;
 
 .gallery_image_1 {
   background-image: url("../img/variable6.png");
+  // background-image: url("../img/variable6_lowres.png");
 }
 
 .gallery_image_2 {
   background-image: url("../img/variable20.png");
+  // background-image: url("../img/variable20_lowres.png");
 }
 
 .gallery_image_3 {
   background-image: url("../img/variable8.png");
+  // background-image: url("../img/variable8_lowres.png");
 }
 
 .gallery_image_4 {
   background-image: url("../img/variable5.png");
+  // background-image: url("../img/variable5_lowres.png");
 }
 
 .gallery_image_5 {
   background-image: url("../img/variable_9_carousel.png");
+  // background-image: url("../img/variable_9_carousel_lowres.png");
 }
 
 .gallery_image_6 {
   background-image: url("../img/variable_2_carousel.png");
+  // background-image: url("../img/variable_2_carousel_lowres.png");
 }
 
 //** carousel fade **//

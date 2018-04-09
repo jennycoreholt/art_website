@@ -17893,14 +17893,16 @@ button.close {
 
 .image_container {
   display: table;
+  min-height: 400px;
   max-height: 700px;
   width: 100%; }
   .image_container img {
     display: table-cell;
     margin-left: auto;
     margin-right: auto;
-    max-height: 700px;
-    position: relative; }
+    height: auto;
+    position: relative;
+    width: 80%; }
 
 .not_active {
   color: #ececec; }
