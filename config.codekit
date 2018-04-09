@@ -1975,121 +1975,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/jenny_core_castlefield_gallery.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.38537e+07,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery.jpg",
-		"outputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/jenny_core_castlefield_gallery_files\/9510772220_0f3dd23494_h.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 685588,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/9510772220_0f3dd23494_h.jpg",
-		"outputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/9510772220_0f3dd23494_h.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/jenny_core_castlefield_gallery_files\/9510772220_b55cf381ef_n.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 33909,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/9510772220_b55cf381ef_n.jpg",
-		"outputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/9510772220_b55cf381ef_n.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/jenny_core_castlefield_gallery_files\/ad.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/ad.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/img\/jenny_core_castlefield_gallery_files\/b648d11d-876a-4365-8364-dcf9578ec52c.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 24747,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/b648d11d-876a-4365-8364-dcf9578ec52c.jpg",
-		"outputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/b648d11d-876a-4365-8364-dcf9578ec52c.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/jenny_core_castlefield_gallery_files\/flickr-router-a595ba0a.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/flickr-router-a595ba0a.js",
-		"outputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/min\/flickr-router-a595ba0a-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/img\/jenny_core_castlefield_gallery_files\/inside.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/inside.js",
-		"outputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/min\/inside-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/img\/jenny_core_castlefield_gallery_files\/radar.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/radar.js",
-		"outputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/min\/radar-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/img\/jenny_core_castlefield_gallery_files\/rollup-85c84b68.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/rollup-85c84b68.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/img\/jenny_core_castlefield_gallery_files\/saved_resource.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/saved_resource.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/img\/jenny_core_castlefield_gallery_files\/superagent-0c883dff.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/superagent-0c883dff.js",
-		"outputAbbreviatedPath": "\/img\/jenny_core_castlefield_gallery_files\/min\/superagent-0c883dff-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/img\/linkedin_socialmedia.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2108,17 +1993,6 @@
 		"initialSize": 11412,
 		"inputAbbreviatedPath": "\/img\/quote_image.png",
 		"outputAbbreviatedPath": "\/img\/quote_image.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/rgb_carousel.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/img\/rgb_carousel.png",
-		"outputAbbreviatedPath": "\/img\/rgb_carousel.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2354,6 +2228,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/variable6_gallery.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.48063e+06,
+		"inputAbbreviatedPath": "\/img\/variable6_gallery.png",
+		"outputAbbreviatedPath": "\/img\/variable6_gallery.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/variable6_gallery_thumbail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2405,17 +2290,6 @@
 		"initialSize": 231445,
 		"inputAbbreviatedPath": "\/img\/Variable9.jpeg",
 		"outputAbbreviatedPath": "\/img\/Variable9.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/Variable9.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 656699,
-		"inputAbbreviatedPath": "\/img\/Variable9.jpg",
-		"outputAbbreviatedPath": "\/img\/Variable9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
