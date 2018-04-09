@@ -5,6 +5,11 @@
 	background-image: url("../img/bubbles_2.jpg");
 }
 
+.image_container {
+	height: auto;
+	width: 100%;
+}
+
 .gallery_thumbnail {
 	background-position: center;
 	background-repeat: no-repeat;
@@ -18,6 +23,9 @@
 	@media(min-width: $screen-sm) {
 		margin-bottom: 30px;
 	}
+	.image_container {
+	}
+
 	.gallery_image_title {
 		text-decoration: none;
 		opacity: 1;

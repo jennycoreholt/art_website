@@ -17787,6 +17787,10 @@ button.close {
 .hero_bkgrd_header_image_3 {
   background-image: url("../img/bubbles_2.jpg"); }
 
+.image_container {
+  height: auto;
+  width: 100%; }
+
 .gallery_thumbnail {
   background-position: center;
   background-repeat: no-repeat;
@@ -17890,6 +17894,19 @@ button.close {
 
 .gallery_page_image {
   position: relative; }
+
+.image_container {
+  display: table;
+  min-height: 400px;
+  max-height: 700px;
+  width: 100%; }
+  .image_container img {
+    display: table-cell;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    position: relative;
+    width: 80%; }
 
 .not_active {
   color: #ececec; }
