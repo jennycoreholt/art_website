@@ -2195,6 +2195,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/variable16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99297,
+		"inputAbbreviatedPath": "\/img\/variable16.jpg",
+		"outputAbbreviatedPath": "\/img\/variable16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/variable16_carousel.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2499,17 +2510,6 @@
 		"initialSize": 76700,
 		"inputAbbreviatedPath": "\/img\/variable9_lowres.jpg",
 		"outputAbbreviatedPath": "\/img\/variable9_lowres.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/variable_16.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 99297,
-		"inputAbbreviatedPath": "\/img\/variable_16.jpg",
-		"outputAbbreviatedPath": "\/img\/variable_16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
