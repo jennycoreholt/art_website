@@ -23,8 +23,7 @@
 	@media(min-width: $screen-sm) {
 		margin-bottom: 30px;
 	}
-	.image_container {
-	}
+
 
 	.gallery_image_title {
 		text-decoration: none;
@@ -148,7 +147,6 @@
 
 .image_container {
 	display: table;
-	min-height: 400px;
 	max-height: 700px;
 	width: 100%;
 

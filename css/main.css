@@ -17897,7 +17897,6 @@ button.close {
 
 .image_container {
   display: table;
-  min-height: 400px;
   max-height: 700px;
   width: 100%; }
   .image_container img {
