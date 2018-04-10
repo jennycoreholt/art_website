@@ -67,10 +67,63 @@
 
     <!-- carousel -->
     <div class="container">
-      <div id="homepage_carousel" class="page_load_fade_in carousel slide carousel-fade" data-ride="carousel">
+      <div id="homepage_carousel" class="page_load_fade_in carousel-fade carousel slide lazy" data-ride="carousel">
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
+
+          <div class="item active">
+            <div class="gallery_image_center">
+              <div class="gallery_image">
+                <img class="img-responsive" src="../img/variable6.png" alt="Variable #6"/>
+              </div>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="gallery_image_center">
+              <div class="gallery_image">
+                <img class="img-responsive" data-src="../img/variable20.png" alt="Variable #20"/>
+              </div>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="gallery_image_center">
+              <div class="gallery_image">
+                <img class="img-responsive" data-src="../img/variable8.png" alt="Variable #8" />
+              </div>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="gallery_image_center">
+              <div class="gallery_image">
+                <img class="img-responsive" data-src="../img/variable5.png" alt="Variable #5"/>
+              </div>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="gallery_image_center">
+              <div class="gallery_image">
+                <img class="img-responsive" data-src="../img/variable_9_carousel.png" alt="Variable #9"/>
+              </div>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="gallery_image_center">
+              <div class="gallery_image">
+                <img class="img-responsive" data-src="../img/variable_2_carousel.png" alt="variable #2"/>
+              </div>
+            </div>
+          </div>
+
+          <!-- <div class="item active">
+            <div class="gallery_image gallery_image_1"></div>
+          </div>
+
           <div class="item active">
             <div class="gallery_image gallery_image_1"></div>
           </div>
@@ -93,7 +146,7 @@
 
           <div class="item">
             <div class="gallery_image gallery_image_6"></div>
-          </div>
+          </div> -->
 
         </div>
       </div>
@@ -124,7 +177,7 @@
       </div>
     </div>
 
-    <br></br>
+    <br>
 
     <!-- footer -->
     <footer class="footer">
@@ -139,7 +192,7 @@
             <div class="logo_area">
               <a href="https://www.riseart.com/user/jenny-core" target="_blank">
                 <p>represented by</p>
-                <img class="img-responsive" src="img/rise_art_logo.png" alt="Rise Art Logo">
+                <img class="img-responsive" src="img/rise_art_logo.png" alt="Rise Art Logo"/>
               </a>
             </div>
           </div>
@@ -153,16 +206,5 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/min/main-min.js"></script>
-    <script src="js/dist/echo.js"></script>
-    <script>
-      echo.init({
-      offset: 1000,
-      throttle: 250,
-      unload: false,
-      callback: function (element, op) {
-        console.log(element, 'has been', op + 'ed')
-      }
-    });
-    </script>
   </body>
 </html>

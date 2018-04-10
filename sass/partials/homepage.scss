@@ -324,29 +324,76 @@ $defaultDuration: .3s;
     display: inline-block;
     position: absolute;
   }
+}
 
+.gallery_image_center {
+  display: table;
+  width: 100%;
 }
 
 .gallery_image {
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: contain;
+  display: table-cell;
   height: 260px;
-  width: auto;
+  vertical-align: middle;
+  width: 100%;
+
+  img {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    position: relative;
+    width: 100%;
+    @media(min-width: $screen-sm-min) {
+      width: 78%;
+    }
+    @media(min-width: $screen-md-min) {
+      width: 90%;
+    }
+    @media(min-width: $screen-lg-min) {
+      width: 100%;
+    }
+  }
   @media(min-width: $screen-sm-min) {
-    height: 90vh;
+    height: 85vh;
   }
 }
 
-.gallery_image_1 {
-  background-image: url("../img/variable6.png");
-  // background-image: url("../img/variable6_lowres.png");
-}
+// .gallery_image {
+//   background-position: center center;
+//   background-repeat: no-repeat;
+//   background-size: contain;
+//   height: 260px;
+//   width: auto;
+//   @media(min-width: $screen-sm-min) {
+//     height: 85vh;
+//   }
+// }
 
-.gallery_image_2 {
-  background-image: url("../img/variable20.png");
-  // background-image: url("../img/variable20_lowres.png");
-}
+// .gallery_image_1 {
+//   background-position: center center;
+//   background-repeat: no-repeat;
+//   background-size: contain;
+//   height: 260px;
+//   width: auto;
+//   @media(min-width: $screen-sm-min) {
+//     height: 85vh;
+//   }
+//   // background-image: url("../img/variable6.png");
+//   // background-image: url("../img/variable6_lowres.png");
+// }
+
+// .gallery_image_2 {
+//   background-position: center center;
+//   background-repeat: no-repeat;
+//   background-size: contain;
+//   height: 260px;
+//   width: auto;
+//   @media(min-width: $screen-sm-min) {
+//     height: 82vh;
+//   }
+//   // background-image: url("../img/variable20.png");
+//   // background-image: url("../img/variable20_lowres.png");
+// }
 
 .gallery_image_3 {
   background-image: url("../img/variable8.png");
