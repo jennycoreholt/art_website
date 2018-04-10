@@ -17910,14 +17910,24 @@ button.close {
 .image_container {
   display: table;
   max-height: 700px;
+  min-height: 200px;
   width: 100%; }
+  @media (min-width: 768px) {
+    .image_container {
+      min-height: 400px; } }
   .image_container img {
     display: table-cell;
     margin-left: auto;
     margin-right: auto;
     height: auto;
     position: relative;
-    width: 80%; }
+    width: 100%; }
+    @media (min-width: 768px) {
+      .image_container img {
+        width: 80%; } }
+    @media (min-width: 992px) {
+      .image_container img {
+        width: 50%; } }
 
 .not_active {
   color: #ececec; }

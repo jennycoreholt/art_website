@@ -148,15 +148,24 @@
 .image_container {
 	display: table;
 	max-height: 700px;
+	min-height: 200px;
 	width: 100%;
-
+	@media(min-width: $screen-sm-min) {
+		min-height: 400px
+	}
 	img {
 		display: table-cell;
     margin-left: auto;
     margin-right: auto;
 		height: auto;
     position: relative;
-		width: 80%;
+		width: 100%;
+		@media(min-width: $screen-sm-min) {
+			width: 80%;
+		}
+		@media(min-width: $screen-md-min) {
+			width: 50%;
+		}
 	}
 }
 
