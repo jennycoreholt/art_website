@@ -11772,6 +11772,7 @@ nav.navbar.navbar-default {
   top: 22px; }
 
 .social_media {
+  cursor: pointer;
   margin-bottom: 0;
   margin-top: 10px; }
   .social_media li {
@@ -11968,11 +11969,12 @@ footer {
     footer {
       padding-top: 3em; } }
 
-@media (min-width: 768px) {
-  .copyright {
-    margin-right: -50%;
-    position: absolute;
-    top: 50%; } }
+.copyright {
+  padding-bottom: 2rem; }
+  @media (min-width: 768px) {
+    .copyright {
+      float: right; } }
+
 @media (min-width: 768px) {
   .logo_area {
     position: absolute;
@@ -23748,6 +23750,9 @@ button.close {
 
 .custom_glyphicon_size_large {
   font-size: 30px; }
+
+#mc_embed_signup > form {
+  padding: 10px 0 10px 0 !important; }
 
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
