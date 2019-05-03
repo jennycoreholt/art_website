@@ -11963,7 +11963,7 @@ footer {
   height: 80px;
   left: 0;
   padding-top: 5em;
-  position: absolute;
+  position: relative;
   right: 0; }
   @media (min-width: 992px) {
     footer {
